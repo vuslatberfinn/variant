@@ -1,0 +1,25 @@
+Variant	Population	Frequency	Clinical_Significance
+chr17:41276554 A->T	European	0.03	Pathogenic
+chr7:55227634 G->C	European		Benign
+chr17:75794528 G->T	European	0.01	Pathogenic
+chr12:25349688 G->A	European	0.05	Pathogenic
+chr10:11201984 C->T	African		NaN
+chr13:32794284 T->G	European	0.4	Pathogenic
+chr17:41276554 A->T	African	0.03	Pathogenic
+chr7:55227634 G->C	European		Benign
+chr17:75794528 G->T	European	0.02	Pathogenic
+chr12:25349688 G->A	African	0.0125	Pathogenic
+chr10:11201984 C->T	Asian		Benign
+chr13:32794284 T->G	Asian	0.12	Pathogenic
+chr19:46079587 T->A	Asian	0.0142	NaN
+chr22:26373002 G->C	Asian		Benign
+chr17:23571345 G->A	Asian	0.15	Pathogenic
+chr1:54218866 T->C	African	0.05	NaN
+chr17:41276554 A->T	African	0.03	Pathogenic
+chr13:32794284 T->G	African	0.12	Pathogenic
+chr19:46079587 T->A	Asian	0.014	NaN
+chr22:26373002 G->C	Asian		Benign
+chr17:23571345 G->A	African	0.01	Pathogenic
+chr1:54218866 T->C	African	0.02	Pathogenic
+chr17:41276554 A->T	European	0.03	Pathogenic
+
